@@ -1,2 +1,2 @@
 # QA-Academy-2024-Playwright-Project
-Creating automated test suite (UI) for regression testing with Playwright.
+Creating automated test suite (UI) for regression testing with Playwright for website https://www.saucedemo.com/
