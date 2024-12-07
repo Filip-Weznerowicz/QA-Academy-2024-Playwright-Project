@@ -10,3 +10,5 @@ Requirements:
 ●	It is possible for the tests to run in the pipeline (manual trigger and scheduled run).
 
 ●	Your test report is easy to access at Github Pages.
+
+Deadline: 9th of December 2024
