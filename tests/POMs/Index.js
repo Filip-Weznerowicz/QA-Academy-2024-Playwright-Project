@@ -1,0 +1,7 @@
+export { LoginPage } from './LoginPage'
+export { InventoryPage } from './InventoryPage'
+export { CartPage } from './CartPage'
+export { ProductDetailsPage } from './ProductDetailsPage'
+export { CheckoutPage } from './CheckoutPage'
+export { CheckoutOverviewPage } from './CheckoutOverviewPage'
+export { CheckoutCompletePage } from './CheckoutCompletePage'
