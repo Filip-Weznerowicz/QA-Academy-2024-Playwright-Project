@@ -1,6 +1,7 @@
 # QA-Academy-2024-Playwright-Project
 Created automated test suite (UI) for regression testing with Playwright for website https://www.saucedemo.com/
 
+
 Requirements:
 
 ●	Test scenarios are structured in Given, When, Then format.
@@ -11,7 +12,9 @@ Requirements:
 
 ●	Your test report is easy to access at Github Pages.
 
+
 Deadline: 9th of December 2024
+
 
 SCENARIO 1: User should be able to log in with standard user given the correct credentials.
 
