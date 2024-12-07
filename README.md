@@ -14,6 +14,7 @@ Requirements:
 Deadline: 9th of December 2024
 
 SCENARIO 1: User should be able to log in with standard user given the correct credentials.
+
 SCENARIO 2: User should not be able to access the e-shop inventory without logging in.
 
 SCENARIO 3: User whose access is denied (locked_out_user) should not be able to log in.
